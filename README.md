@@ -45,22 +45,6 @@ My current goal is to strengthen my understanding of data analysis, backtesting,
 * Statistical Analysis
 * Machine Learning Fundamentals
 
-## 🚀 Featured Projects
-
-<!-- Replace the placeholders below after publishing your repositories. -->
-
-### [Stock Data Cleaning Pipeline]
-
-A Python-based data-cleaning project for processing stock market data, including missing values, duplicate records, invalid prices, and abnormal trading volume.
-
-### [Alpha Factor Research Notes]
-
-A collection of notes and experiments related to alpha-factor design, factor interpretation, and quantitative research workflows.
-
-### [Simple Backtesting Framework]
-
-A lightweight Python framework for testing trading signals, evaluating strategy returns, and monitoring risk metrics.
-
 ## 🎯 Current Goals
 
 * Build reproducible quantitative research projects
