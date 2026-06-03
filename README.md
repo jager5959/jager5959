@@ -1,14 +1,73 @@
-## Hi there, I'm jager 👋
+# Hi there, I'm Jager 👋
 
-Aspiring Quant Researcher | WorldQuant Gold Level Achiever | NOISG2025 full mark gold medal | NOI2025 silver medal | APIO2024(China) silver medal
+Aspiring Quantitative Researcher | Competitive Programmer | Alpha Research Enthusiast
 
-I’m currently learning **AI Quantitative Trading** and building my own **Alpha Factors**.
+I am a student with a background in informatics competition, currently exploring **quantitative finance**, **factor research**, and **AI-assisted trading research**.
 
-## Skills
+My current goal is to strengthen my understanding of data analysis, backtesting, time series analysis, and risk modeling, while developing and testing my own alpha factors.
 
-Programming: Python(Learning Pandas, Numpy), C++, Algorithm, Data Structure.
-Quantitative finance(Learning): Factor Research, Backtesting Framework, Risk Model, Time Series Analysis.
-Languages: Chinese, English(Learning)
+## 🏆 Achievements
 
-## Communication way
-Email: xuanjie5959@gmail.com
+* **WorldQuant BRAIN** — Gold Level
+* **NOISG 2025** — Gold Medal, Full Score, 1st Place
+* **NOI 2025** — Silver Medal
+* **APIO 2024, China Region** — Silver Medal
+* **Tsinghua University Winter Camp 2024** — National First Prize
+
+## 💻 Technical Skills
+
+### Programming
+
+* Python
+* C++
+* Algorithms and Data Structures
+
+### Data Analysis
+
+* Pandas
+* NumPy
+* Data Cleaning
+* Exploratory Data Analysis
+
+## 📚 Currently Learning
+
+### Quantitative Finance
+
+* Alpha Factor Research
+* Backtesting Frameworks
+* Risk Modeling
+* Financial Time Series Analysis
+* Portfolio Analysis
+
+### Data Science
+
+* Python for Data Analysis
+* Statistical Analysis
+* Machine Learning Fundamentals
+
+## 🚀 Featured Projects
+
+<!-- Replace the placeholders below after publishing your repositories. -->
+
+### [Stock Data Cleaning Pipeline]
+
+A Python-based data-cleaning project for processing stock market data, including missing values, duplicate records, invalid prices, and abnormal trading volume.
+
+### [Alpha Factor Research Notes]
+
+A collection of notes and experiments related to alpha-factor design, factor interpretation, and quantitative research workflows.
+
+### [Simple Backtesting Framework]
+
+A lightweight Python framework for testing trading signals, evaluating strategy returns, and monitoring risk metrics.
+
+## 🎯 Current Goals
+
+* Build reproducible quantitative research projects
+* Improve my understanding of financial statistics and time series analysis
+* Develop a structured workflow for factor research and backtesting
+* Document my learning process through open-source projects
+
+## 📫 Contact
+
+* Email: [xuanjie5959@gmail.com](mailto:xuanjie5959@gmail.com)
